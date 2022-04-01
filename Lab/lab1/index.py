@@ -27,7 +27,4 @@ elif option=='3'
 print(num1,'*'num2 '='multiply(num1*num2)
 elif option=='4'
 print(num1 '/' num2 '=' divide(num1/num2))
-
-
-
-
+print('Hello World')
